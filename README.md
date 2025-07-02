@@ -38,6 +38,5 @@ Removes all [fusion_*] shortcodes from post content and converts any plain image
 == Changelog ==
 
 = 1.8 =
-* Updated developer name to J Media Group LLC
 * Added readme.txt file
 
